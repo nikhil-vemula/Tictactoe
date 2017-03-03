@@ -1,10 +1,8 @@
-**Technopoly** is a website developed for hosting technical event for CBIT technical fest
+**Tic Tac Toe** game written in C Language
 
 
 ## Technology
-* CSS frameworks:BootStrap, Hover, 
-* JS frameworks:AngularJs,jQuery
-* IconSets:Font awesome
+* C Language
 
 ## Contact
 #### Developer/Projects spokesman

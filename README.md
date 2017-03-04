@@ -1,7 +1,7 @@
 ## Description
 **Tic Tac Toe** game written in C Language
 ## Technology
-* C Language
+#### C Language
 ## Screen Shots
 ![Alt text](https://raw.githubusercontent.com/vsncipher/Tictactoe/master/scrshots/scr1.PNG "scr1")
 

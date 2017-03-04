@@ -1,9 +1,10 @@
 ## Description
 **Tic Tac Toe** game written in C Language
-## Screen Shots
-![Alt text](./scrshots/scr1.png?raw=true "Start")
 ## Technology
 * C Language
+## Screen Shots
+![Alt text](./scrshots/scr1.png?raw=true "scr1")
+
 
 ## Contact
 #### Developer/Projects spokesman
